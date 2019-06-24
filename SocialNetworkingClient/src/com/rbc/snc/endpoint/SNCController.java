@@ -448,5 +448,8 @@ public class SNCController {
 
 		}
 	}
-	
+	private void sysou() {
+		// TODO Auto-generated method stub
+
+	}
 }
